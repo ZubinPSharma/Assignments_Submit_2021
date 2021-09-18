@@ -1,0 +1,48 @@
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~
+$ cd python2021
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021
+$ cd SUBMISSIONS
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS (master)
+$ cd Week_01
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01 (master)
+$ touch answers.txt
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01 (master)
+$ mkdir s1
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01 (master)
+$ cd s1
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1 (master)
+$ mkdir s2
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1 (master)
+$ mkdir s3
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1 (master)
+$ cd s3
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1/s3 (master)
+$ touch conf.txt
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1/s3 (master)
+$ cd ..
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1 (master)
+$ cd s2
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1/s2 (master)
+$ touch text_chunk1.txt
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1/s2 (master)
+$ mkdir Advanced
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1/s2 (master)
+$ touch text_chunk2.txt
+
+zshar@LAPTOP-J7ES61F9 MINGW64 ~/python2021/SUBMISSIONS/Week_01/s1/s2 (master)
+$
